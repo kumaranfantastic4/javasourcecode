@@ -7,6 +7,7 @@ public class Node {
 	public Node leftChild;
 	public Node rightChild;
 	
+	// displayNode method
 	public void displayNode(){
 		System.out.print("{ ");
 		System.out.print(iData);
